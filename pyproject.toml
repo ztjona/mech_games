@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mech_games"
+version = "0.1.0"
+description = "A library for mech games."
+authors = [
+    { name="Jonathan Zea" }
+]
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/ztjona/mech_games"
+
