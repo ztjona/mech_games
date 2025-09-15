@@ -21,3 +21,5 @@ dependencies = []
 [project.urls]
 "Homepage" = "https://github.com/ztjona/mech_games"
 
+[tool.setuptools]
+packages = ["mech_games"]
